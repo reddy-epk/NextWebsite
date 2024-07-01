@@ -99,15 +99,6 @@ export const projects = [
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "https://github.com/adrianhajdin/ai_saas_app",
-    live: "",
-  },
-  {
-    id: 4,
     title: "NxtTrendz",
     des: "Shop the latest trends with a seamless experience - fashion e-commerce app.",
     img: "https://res.cloudinary.com/dqfqwre2q/image/upload/v1718817240/nxtrendz.png",
