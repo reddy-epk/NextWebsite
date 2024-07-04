@@ -97,8 +97,17 @@ export const projects = [
     link: "https://github.com/reddy-epk/NxtMart",
     live: "https://pknxtmart.ccbp.tech/",
   },
-  {
+    {
     id: 3,
+    title: "Chartify",
+    des: "A Software that creates charts with data.",
+    img: "/p3.svg",
+    iconLists: ["/re.svg", "/tail.svg",],
+    link: "https://github.com/reddy-epk/chartify",
+    live: "https://chartify.ccbp.tech/",
+  },
+  {
+    id: 4,
     title: "NxtTrendz",
     des: "Shop the latest trends with a seamless experience - fashion e-commerce app.",
     img: "https://res.cloudinary.com/dqfqwre2q/image/upload/v1718817240/nxtrendz.png",
