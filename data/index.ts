@@ -101,7 +101,7 @@ export const projects = [
     id: 3,
     title: "Chartify",
     des: "A Software that creates charts with data.",
-    img: "/p3.svg",
+    img: "https://res.cloudinary.com/dqfqwre2q/image/upload/v1719497743/Screenshot_2721_mayr6h.png",
     iconLists: ["/re.svg", "/tail.svg",],
     link: "https://github.com/reddy-epk/chartify",
     live: "https://chartify.ccbp.tech/",
